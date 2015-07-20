@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  domain: MyString
+  created_time: MyString
+  updated_time: MyString
+  expired_time: MyString
+  registrant_org: MyString
+  related_email: MyString
+  related_country: MyString
+  nameserver_count: 1
+
+two:
+  domain: MyString
+  created_time: MyString
+  updated_time: MyString
+  expired_time: MyString
+  registrant_org: MyString
+  related_email: MyString
+  related_country: MyString
+  nameserver_count: 1

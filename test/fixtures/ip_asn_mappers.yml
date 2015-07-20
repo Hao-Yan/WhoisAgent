@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  ip: MyString
+  as_number: MyString
+  prefix: MyString
+  country: MyString
+  registry: MyString
+  allocated_date: MyString
+  as_name: MyString
+
+two:
+  ip: MyString
+  as_number: MyString
+  prefix: MyString
+  country: MyString
+  registry: MyString
+  allocated_date: MyString
+  as_name: MyString
